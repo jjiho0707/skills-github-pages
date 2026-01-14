@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: jjiho0707 Blog
 ---
 
-hmm I dont know how to work this
+hello there
